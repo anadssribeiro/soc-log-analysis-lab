@@ -19,7 +19,7 @@ Related Entities:
 
 - Internal business communications
 
-- <img width="812" height="152" alt="splunk_data" src="https://github.com/user-attachments/assets/6a7d4b44-de94-45f7-a057-76af7b839aa9" />
+<img width="812" height="152" alt="splunk_data" src="https://github.com/user-attachments/assets/6a7d4b44-de94-45f7-a057-76af7b839aa9" />
 
 - URL reputation check using TryDetectThis
 
