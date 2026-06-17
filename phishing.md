@@ -1,5 +1,5 @@
 
-<img width="761" height="201" alt="image" src="https://github.com/user-attachments/assets/404e4d6e-d467-402d-96c5-6452a01ee4b7" />
+<img width="761" height="201" alt="initial_alert8814" src="https://github.com/user-attachments/assets/404e4d6e-d467-402d-96c5-6452a01ee4b7" />
 
 Alert Name: Phishing Analysis
 Severity: Medium
@@ -16,8 +16,13 @@ Related Entities:
 
 - Email content and sender details
 - Embedded URL analysis
+
 - Internal business communications
+<img width="812" height="152" alt="splunk_data" src="https://github.com/user-attachments/assets/6a7d4b44-de94-45f7-a057-76af7b839aa9" />
+
 - URL reputation check using TryDetectThis
+<img width="428" height="300" alt="third_party_vendor_analysis" src="https://github.com/user-attachments/assets/d9c32354-53e1-4815-8d33-672faa74b259" />
+
 
 ## Conclusion
 
