@@ -1,9 +1,9 @@
 
 <img width="761" height="201" alt="initial_alert8814" src="https://github.com/user-attachments/assets/404e4d6e-d467-402d-96c5-6452a01ee4b7" />
 
-Alert Name: Phishing Analysis
-Severity: Medium
-Time of Activity: 06/17/2026 13:03:15 UTC
+- Alert Name: Phishing Analysis
+- Severity: Medium
+- Time of Activity: 06/17/2026 13:03:15 UTC
 
 Related Entities:
 - User: j.garcia@thetrydaily.thm
