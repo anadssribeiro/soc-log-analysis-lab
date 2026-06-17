@@ -30,9 +30,9 @@ Reviewing the user's activity showed legitimate HR-related web searches immediat
 While there was no evidence that the connection was successful or that the endpoint was compromised, the alert correctly identified an attempt to access malicious infrastructure. Based on the available evidence, I classified the alert as a True Positive.
 
 ## Skills Demonstrated
-Firewall alert triage
-Network log analysis
-Threat intelligence enrichment
-URL reputation analysis
-True positive determination
-Security documentation
+- Firewall alert triage
+- Network log analysis
+- Threat intelligence enrichment
+- URL reputation analysis
+- True positive determination
+- Security documentation
