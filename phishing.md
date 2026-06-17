@@ -1,4 +1,5 @@
 
+<img width="761" height="201" alt="image" src="https://github.com/user-attachments/assets/404e4d6e-d467-402d-96c5-6452a01ee4b7" />
 
 Alert Name: Phishing Analysis
 Severity: Medium
@@ -18,7 +19,7 @@ Related Entities:
 - Internal business communications
 - URL reputation check using TryDetectThis
 
-- ## Conclusion
+## Conclusion
 
 - The alert was classified as a False Positive.
 Investigation revealed that the email was a legitimate onboarding communication from HRConnex, an approved third-party HR provider. Internal correspondence confirmed that the recipient was a new employee expected to receive onboarding documentation from this vendor.
@@ -26,7 +27,6 @@ Additional analysis showed that the sender domain matched the embedded URL domai
 Based on the available evidence, no security threat was identified and the alert was closed as a False Positive.
 
 ## Skills Demonstrated
-
 - Email analysis
 - Alert triage
 - Threat intelligence enrichment
