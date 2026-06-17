@@ -29,8 +29,8 @@ Related Entities:
 ## Conclusion
 
 - The alert was classified as a False Positive.
-Investigation revealed that the email was a legitimate onboarding communication from HRConnex, an approved third-party HR provider. Internal correspondence confirmed that the recipient was a new employee expected to receive onboarding documentation from this vendor.
-Additional analysis showed that the sender domain matched the embedded URL domain, and URL reputation checks returned a CLEAN result with no indicators of phishing or malicious activity.
+Investigation revealed that the email was a legitimate onboarding communication from HRConnex, an approved third-party HR provider. Internal HR correspondence confirmed that the recipient was a new employee expected to receive onboarding documentation from this particular vendor.
+Additional analysis showed that the sender domain matched the embedded URL domain, and URL reputation checks via TryDetectThis did not find any indicators of phishing or malicious activity.
 Based on the available evidence, no security threat was identified and the alert was closed as a False Positive.
 
 ## Skills Demonstrated
