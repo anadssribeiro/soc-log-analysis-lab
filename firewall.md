@@ -20,6 +20,7 @@ Source endpoint activity and related web browsing
 <img width="938" height="447" alt="image" src="https://github.com/user-attachments/assets/4f50d2d4-7e09-4b55-b72c-eb4565026023" />
 
 URL reputation analysis using TryDetectThis
+
 <img width="430" height="293" alt="image" src="https://github.com/user-attachments/assets/d1c633f5-5a1c-4bb5-972e-32c4fab2cc1e" />
 
 ## Conclusion
